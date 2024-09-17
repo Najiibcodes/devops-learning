@@ -51,13 +51,13 @@ This project demonstrates how I set up two web servers (NGINX and Apache) on AWS
    - **A Record (nginx.najiib.co.uk)**:
      - Type: A
      - Name: nginx.najiib.co.uk
-     - Value: `<NGINX_EC2_Public_IP>`
+     - Value: 35.179.107.254
      - TTL: Auto
      
    - **A Record (apache.najiib.co.uk)**:
      - Type: A
      - Name: apache.najiib.co.uk
-     - Value: `<Apache_EC2_Public_IP>`
+     - Value: 35.179.107.254
      - TTL: Auto
 
 ## Screenshots of Working NGINX and Apache Servers
