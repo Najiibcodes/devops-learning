@@ -63,10 +63,12 @@ This project demonstrates how I set up two web servers (NGINX and Apache) on AWS
 ## Screenshots of Working NGINX and Apache Servers
 
 ### NGINX Server (`nginx.najiib.co.uk`)
-![NGINX Server](./screenshots/nginx-najiib-co-uk.png)
+![image](https://github.com/user-attachments/assets/03ab50cd-35a9-4b79-a1a4-e286bd6192e6)
+
 
 ### Apache Server (`apache.najiib.co.uk`)
-![Apache Server](./screenshots/apache-najiib-co-uk.png)
+![image](https://github.com/user-attachments/assets/5e284105-ac6d-483c-9649-ecf942e01a88)
+
 
 ## Network Troubleshooting
 
