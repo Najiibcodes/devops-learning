@@ -1,127 +1,70 @@
-# DevOps Learning Journey
+# 🚀 Najiib Mahmoud's DevOps Journey: Mastering Linux, Bash, and Git
 
-Welcome to your DevOps learning repository! This repository is designed to track your progress as you navigate through various modules of this DevOps bootcamp. It will serve as a central hub for all your notes, labs, and project work. Use this repository template and let's get started on your journey to becoming a DevOps Engineer!
+![Linux](https://img.shields.io/badge/Linux-Mastery-green?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-Scripting-blue?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
 
-## Initial setup
+## 🚀 Overview
+This repository serves as a documentation of my journey through the **CoderCo DevOps Bootcamp**, highlighting my completed modules and the skills I’ve mastered along the way. From deep-diving into Linux and Bash to becoming proficient with Git and GitHub, I’m continuously building my foundation in DevOps.
 
-![UseTemplate](./images/UseTemplate.png)
--------
-![UseTemplate](./images/Createrepo.png)
+### What’s Included
+- 🐧 **Linux Mastery**: Focus on system administration, file management, and user control.
+- 🖥️ **Bash Scripting**: Automation scripts and real-world examples, including a custom game.
+- 🌳 **Git Version Control**: Proficiency in managing repositories, branching, and advanced Git workflows.
 
-## Repository Structure
+---
 
-This repository is organized into multiple modules, each representing a core area of DevOps. You will find a dedicated folder for each module where you can store your notes, labs, and any other relevant materials.
+## 📅 Progress So Far
 
-## Sample Directory Structure
+| **Module**     | **Completion Date**  | **Key Skills**                                  |
+|----------------|----------------------|-------------------------------------------------|
+| Linux          | Completed             | Terminal navigation, file systems, user permissions, VIM, environment variables |
+| Bash           | Completed             | Automation scripts, advanced Bash techniques, game development with Bash |
+| Git & GitHub   | Completed             | Git workflows, branching, conflict resolution, GitHub repository management |
 
-Here's how your directory structure should look like as you progress through the bootcamp. This is an example of what your repository might look like after completing a few modules:
+---
 
-Example layout for repo only. Yours could be different but this is inspiration. 
+## 🔑 Key Projects and Repositories
 
-```bash
-devops-learning/
-├── Linux/
-│   ├── notes/
-│   │   ├── linux-basics.md
-│   │   ├── file-system.md
-│   │   └── shell-scripting.md
-│   ├── labs/
-│   │   ├── lab1-basic-commands.md
-│   │   ├── lab2-file-permissions.md
-│   │   └── lab3-shell-scripting.md
-│   └── projects/
-│       ├── project1-custom-script/
-│       │   ├── script.sh
-│       │   └── README.md
-│       └── project2-linux-server-setup/
-│           ├── setup-notes.md
-│           └── README.md
-│
-├── Git/
-│   ├── notes/
-│   │   ├── version-control-basics.md
-│   │   ├── branching-and-merging.md
-│   │   └── git-workflow.md
-│   ├── labs/
-│   │   ├── lab1-initial-commit.md
-│   │   ├── lab2-branching.md
-│   │   └── lab3-merge-conflicts.md
-│   └── projects/
-│       ├── project1-git-repo-setup/
-│       │   ├── init-repo.sh
-│       │   └── README.md
-│       └── project2-collaboration-workflow/
-│           ├── collaboration-notes.md
-│           └── README.md
-│
-├── AWS/
-│   ├── notes/
-│   │   ├── aws-overview.md
-│   │   ├── ec2-basics.md
-│   │   └── s3-setup.md
-│   ├── labs/
-│   │   ├── lab1-ec2-instance.md
-│   │   ├── lab2-s3-bucket.md
-│   │   └── lab3-vpc-setup.md
-│   └── projects/
-│       ├── project1-hosting-on-ec2/
-│       │   ├── deployment-notes.md
-│       │   └── README.md
-│       └── project2-static-website-on-s3/
-│           ├── website-files/
-│           └── README.md
-│
-├── Terraform/
-│   ├── notes/
-│   │   ├── terraform-basics.md
-│   │   ├── providers-and-modules.md
-│   │   └── state-management.md
-│   ├── labs/
-│   │   ├── lab1-terraform-setup.md
-│   │   ├── lab2-infrastructure-as-code.md
-│   │   └── lab3-terraform-modules.md
-│   └── projects/
-│       ├── project1-infrastructure-deployment/
-│       │   ├── main.tf
-│       │   ├── variables.tf
-│       │   └── README.md
-│       └── project2-multi-environment-setup/
-│           ├── dev/
-│           ├── prod/
-│           └── README.md
-│
-└── README.md
-```
+### 🐧 **Linux Mastery: OverTheWire Bandit Challenge**
+Repository: [Linux Bandit Challenges](https://github.com/Najiibcodes/devops-learning)
+- **Summary**: Solved the **OverTheWire Bandit** challenges, gaining a deep understanding of Linux commands, file systems, and permissions through a gamified learning experience.
+- **Tech Stack**: Linux, Bash, SSH
+- **Highlights**: Navigating through various levels, managing system files, redirection, and advanced terminal usage.
 
-### Modules
+### 🖥️ **Bash Game Development**
+Repository: [Bash Scripting Projects](https://github.com/Najiibcodes/devops-learning)
+- **Summary**: Developed a game in **Bash** as part of the bootcamp, showcasing advanced Bash scripting techniques such as conditionals, loops, and user input management.
+- **Tech Stack**: Bash, Linux
+- **Highlights**: Created a fully functioning terminal-based game, including a menu system and user score tracking.
 
-- **Linux:** Learn the basics and advanced concepts of Linux, the backbone of many DevOps tools.
-- **Git:** Master version control using Git, a fundamental skill in DevOps.
-- **AWS:** Dive into Amazon Web Services and learn how to manage cloud infrastructure.
-- **Terraform:** Automate your infrastructure with Terraform, an Infrastructure as Code (IaC) tool.
-- **Kubernetes:** Explore Kubernetes for container orchestration.
-- **Docker:** Learn about containerization using Docker.
-- **CI/CD:** Implement Continuous Integration and Continuous Deployment pipelines.
-- **Networking:** Understand the fundamentals of networking and how it applies to DevOps.
+### 🌳 **Git and GitHub Workflow**
+Repository: [Git Mastery](https://github.com/Najiibcodes/devops-learning)
+- **Summary**: Managed various repositories, practicing advanced Git workflows such as branching, merging, and conflict resolution.
+- **Tech Stack**: Git, GitHub
+- **Highlights**: Created multiple branches, performed pull requests, handled merge conflicts, and collaborated using GitHub.
 
-## How to Use This Repository
+---
 
-- Make sure to have a GitHub account first
-- Use the repo template and make your own repo from this into your GitHub Account
-- Clone your repo locally and work on it.
+## 🛠️ Current Learning
+Although the focus is on completed modules, I am actively learning more about Docker, AWS, and Terraform. You’ll see these projects appear in the coming weeks, but for now, enjoy my current completed work.
 
-## Best Practices
+---
 
-- Stay Organised: Keep your notes and labs organized in their respective module folders.
-- Commit Often: Make regular commits to ensure you are tracking your progress effectively.
+## 🌟 Future Vision
+The goal is to build upon these core skills and become a proficient DevOps engineer, focusing on:
+- **Cloud Infrastructure (AWS)**: Automating and managing cloud environments.
+- **Containers (Docker)**: Deploying scalable applications.
+- **CI/CD Pipelines**: Automating deployments using GitHub Actions and Jenkins.
 
-- Share Your Progress: Create LinkedIn posts about your journey and share your repository link. Don’t forget to tag @CoderCo!
+---
 
-- Ask for Help: If you get stuck, don't hesitate to reach out to the community or your mentors
+## 🤝 Let's Connect
+Feel free to reach out if you'd like to collaborate or learn more about my work:
+- **LinkedIn**: [Najiib Mahmoud](#)
+- **Email**: najiib.mah@domain.com
 
-## License
+---
+## ⚖️ License
+This repository and all code is licensed under the MIT License.
 
-This repository is licensed under the MIT License. Feel free to use it as a template for your learning journey.
-
-## Contact
-For any questions or support, reach out to CoderCo or ask in our discussion forums.
